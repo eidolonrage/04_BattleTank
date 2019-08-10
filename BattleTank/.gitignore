@@ -73,5 +73,11 @@ Saved/*
 Intermediate/*
 Plugins/*/Intermediate/*
 
+# InfinityBlade Plugin
+Content/InfinityBladeEffects/*
+
+# Starter Content
+Content/StarterContent/*
+
 # Cache files for the editor to use
 DerivedDataCache/*
